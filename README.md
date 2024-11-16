@@ -8,13 +8,11 @@ Este proyecto es un **scrapper de libros** diseñado para extraer información d
 ---
 
 ## 📦 Librerías utilizadas  
-
 - **axios**: Para realizar solicitudes HTTP y obtener los datos de la web.  
 - **cheerio**: Para manipular y extraer datos del DOM de las páginas web.  
 - **inquirer**: Para crear un menú interactivo en la consola.  
 - **xlsx**: Para generar y exportar datos en formato Excel.  
 - **fs**: Para la lectura y escritura de archivos locales.  
-
 ---
 
 ## 🚀 Funcionalidades principales  
@@ -50,8 +48,6 @@ Después de extraer los datos, el sistema permite exportarlos en cualquiera de l
 - `export.ts`: Contiene las funciones para exportar los datos extraídos en los formatos mencionados (CSV, Excel y JSON).  
 
 ---
-
-## 💡 Cómo contribuir  
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto:  
 1. Abre un **issue** para discutir los cambios o nuevas funcionalidades.  
